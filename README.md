@@ -108,8 +108,7 @@ The CAD model represents:
 
 **Onshape CAD Link:**
 
-https://cad.onshape.com/documents/7df9ff668191c7acd94711c6/w/7c8e126a6e8183529dd12612/e/0e38e17f77d117ddcea4193b?renderMode=0&uiState=6ac0c21edb4687ee592cb7cc
-
+https://cad.onshape.com/documents/7df9ff668191c7acd94711c6/w/7c8e126a6e8183529dd12612/e/0e38e17f77d117ddcea4193b
 
 ## 📊 MATLAB Simulation
 
